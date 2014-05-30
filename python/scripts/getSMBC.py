@@ -5,7 +5,7 @@ from urllib2 import *
 import re
 
 ignore = [1275, 1587]
-for i in range(1, 3371):        #look at the most recent comic on the website. it has a number, n (in the url). the second argument to range is (n+1).
+for i in range(1, 3373):        #look at the most recent comic on the website. it has a number, n (in the url). the second argument to range is (n+1).
     if i in ignore:
         continue
     url = 'http://www.smbc-comics.com/?id=' + str(i) + '#comic'

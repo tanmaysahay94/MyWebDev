@@ -5,7 +5,7 @@
 from urllib2 import *
 import re
 
-for i in range(1, 3572):        #look at the url of the first comic. it has a number, n. second argument to range is (n+1).
+for i in range(1, 3574):        #look at the url of the first comic. it has a number, n. second argument to range is (n+1).
     url = 'http://www.explosm.net/comics/' + str(i) + '/'
     response = urlopen(url)
     elements = response.read().split()

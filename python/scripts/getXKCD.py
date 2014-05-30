@@ -1,5 +1,5 @@
 #Author: Tanmay Sahay
-#Description: Scrapes all cyanide and happiness comics
+#Description: Scrapes all xkcd comics
 #Date: 28 May 2014
 
 #My first working script. Yay! :D

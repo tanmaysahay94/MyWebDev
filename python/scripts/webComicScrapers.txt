@@ -5,8 +5,10 @@
 What they (the scripts) do:
 1. save all the files in the directory where you save the script
 2. save comics in a range.
+3. works only for single image comics.
 
 To do:
 1. make them accept directory, start comic and end comic through command line arguments
 2. also make them work without command line arguments
-3. merge the scripts into one
+3. must make them work for multi-image comics
+4. merge the scripts into one

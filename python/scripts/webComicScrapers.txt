@@ -1,0 +1,8 @@
+What they (the scripts) do:
+1. save all the files in the directory where you save the script
+2. save comics in a range.
+
+To do:
+1. make them accept directory, start comic and end comic through command line arguments
+2. also make them work without command line arguments
+3. merge the scripts into one

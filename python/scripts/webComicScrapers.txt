@@ -1,3 +1,7 @@
+#Author: Tanmay Sahay
+#Date: 30 May 2014
+#Description: About my comicWebScrapers
+
 What they (the scripts) do:
 1. save all the files in the directory where you save the script
 2. save comics in a range.

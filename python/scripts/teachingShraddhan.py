@@ -1,6 +1,8 @@
 from urllib2 import *
 
-google = urlopen('http://www.google.com')
+proxy = {'http': 'http://172.16.1.69:3128'}
+
+google = urlopen('http://www.google.com', proxy)
 
 print google
 

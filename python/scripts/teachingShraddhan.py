@@ -4,4 +4,4 @@ google = urlopen('http://www.google.com')
 
 print google
 
-# type 'python -i teachingShraddhan' in the terminal
+# type 'python -i teachingShraddhan.py' in the terminal

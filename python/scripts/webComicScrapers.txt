@@ -12,3 +12,5 @@ To do:
 2. also make them work without command line arguments
 3. must make them work for multi-image comics
 4. merge the scripts into one
+
+Teaching Shraddhan web scraping :D
